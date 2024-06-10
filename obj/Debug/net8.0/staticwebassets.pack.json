@@ -1,0 +1,1025 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QUANTUMWEB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QUANTUMWEB.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\dark-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark-theme.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\header-colors.css",
+      "PackagePath": "staticwebassets\\assets\\css\\header-colors.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\light-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\light-theme.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pace.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\semi-dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\semi-dark.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\flags\\4x3\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ad.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\flags\\4x3\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ca.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\flags\\4x3\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cu.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\flags\\4x3\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ge.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\flags\\4x3\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\in.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\flags\\4x3\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\is.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\flags\\4x3\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\us.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\fonts\\boxiconsd41d.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxiconsd41d.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-1.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-10.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-11.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-12.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-13.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-14.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-2.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-3.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-4.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-5.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-6.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-7.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-8.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\avatars\\avatar-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-9.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\bg-themes\\1.html",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\1.html"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\bg-themes\\2.html",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\2.html"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\bg-themes\\3.html",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\3.html"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\bg-themes\\4.html",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\4.html"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\bg-themes\\5.html",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\5.html"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\bg-themes\\6.html",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\6.html"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\bg-themes\\7.html",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\7.html"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\bg-themes\\8.html",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\8.html"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\brand-logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo-2.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\error\\404-error.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\404-error.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\error\\505-error.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\505-error.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\error\\auth-img-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\auth-img-7.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\error\\auth-img-register3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\auth-img-register3.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\error\\forgot-password-frent-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\forgot-password-frent-img.jpg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\error\\login-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\login-img.jpg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\20.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\21.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\21.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\22.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\22.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\23.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\23.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\24.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\24.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\25.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\25.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\26.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\26.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\27.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\27.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\28.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\28.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\29.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\29.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\30.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\30.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\31.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\31.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\32.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\33.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\33.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\gallery\\34.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\34.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\icons\\search.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\search.svg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\login.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\login.jpeg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\login.jpg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\login_image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\login_image.jpg"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\login_img.jfif",
+      "PackagePath": "staticwebassets\\assets\\images\\login_img.jfif"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\01.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\02.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\03.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\04.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\05.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\06.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\07.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\08.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\09.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\10.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\11.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\products\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\17.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\images\\quantum.png",
+      "PackagePath": "staticwebassets\\assets\\images\\quantum.png"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\app-chat-box.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app-chat-box.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\app-emailbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app-emailbox.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\app-emailread.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app-emailread.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\component-popovers-tooltips.js",
+      "PackagePath": "staticwebassets\\assets\\js\\component-popovers-tooltips.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\data-widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\data-widgets.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\form-date-time-pickes.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-date-time-pickes.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\form-select2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-select2.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\icons-feather-icons.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icons-feather-icons.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\index2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index2.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\index3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index3.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\index4.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index4.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\index5.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index5.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pace.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\table-datatable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\table-datatable.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\apexcharts-bundle\\js\\apex-custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexcharts-bundle\\js\\apex-custom.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\chartjs\\js\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\js\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\chartjs\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datetimepicker\\css\\classic.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\css\\classic.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datetimepicker\\css\\classic.date.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\css\\classic.date.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datetimepicker\\css\\classic.time.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\css\\classic.time.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datetimepicker\\js\\legacy.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\js\\legacy.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datetimepicker\\js\\picker.date.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\js\\picker.date.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datetimepicker\\js\\picker.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\js\\picker.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\datetimepicker\\js\\picker.time.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datetimepicker\\js\\picker.time.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\easyPieChart\\jquery.easypiechart.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\easyPieChart\\jquery.easypiechart.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\css\\dark-unica.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\css\\dark-unica.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\accessibility.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\accessibility.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\cylinder.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\cylinder.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\export-data.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\export-data.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\exporting.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\exporting.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\funnel3d.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\funnel3d.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\highcharts-3d.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\highcharts-3d.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\highcharts-custom.script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\highcharts-custom.script.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\highcharts-more.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\highcharts.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\highcharts.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\solid-gauge.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\solid-gauge.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\highcharts\\js\\variable-pie.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\highcharts\\js\\variable-pie.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\metismenu\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\css\\metisMenu.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\metismenu\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\select2\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap-icons@1.5.0\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons@1.5.0\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap-icons@1.5.0\\font\\fonts\\bootstrap-icons63f3.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons@1.5.0\\font\\fonts\\bootstrap-icons63f3.woff"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap-icons@1.5.0\\font\\fonts\\bootstrap-icons63f3.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons@1.5.0\\font\\fonts\\bootstrap-icons63f3.woff2"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap-icons@1.9.1\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons@1.9.1\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap-icons@1.9.1\\font\\fonts\\bootstrap-iconsd862.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons@1.9.1\\font\\fonts\\bootstrap-iconsd862.woff"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap-icons@1.9.1\\font\\fonts\\bootstrap-iconsd862.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons@1.9.1\\font\\fonts\\bootstrap-iconsd862.woff2"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Yedek\\Yeni klasör\\QUANTUMWEB\\QUANTUMWEB\\QUANTUMWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QUANTUMWEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QUANTUMWEB.props",
+      "PackagePath": "build\\QUANTUMWEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QUANTUMWEB.props",
+      "PackagePath": "buildMultiTargeting\\QUANTUMWEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QUANTUMWEB.props",
+      "PackagePath": "buildTransitive\\QUANTUMWEB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

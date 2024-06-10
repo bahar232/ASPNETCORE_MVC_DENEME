@@ -1,0 +1,225 @@
+﻿@{
+	ViewData["Title"] = "Müşteriler";
+}
+
+
+
+
+
+<div class="card">
+
+	<div class="card-body">
+		<div class="p-4 border rounded">
+			<form class="row g-3">
+				<div class="col-md-3">
+					<label for="validationDefault01" class="form-label">Kodu </label>
+					<input type="text" class="form-control" id="validationDefault01" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault02" class="form-label">Müşteri Adı </label>
+					<input type="text" class="form-control" id="validationDefault02" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefaultUsername" class="form-label">TC</label>
+
+					<input type="text" class="form-control" id="validationDefaultUsername" aria-describedby="inputGroupPrepend2" required>
+
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault04" class="form-label">İl</label>
+					<select class="form-select" id="validationDefault04" required>
+						<option selected disabled value="">Seçiniz...</option>
+						<option>...</option>
+					</select>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault04" class="form-label">İlçe</label>
+					<select class="form-select" id="validationDefault04" required>
+						<option selected disabled value="">Seçiniz...</option>
+						<option>...</option>
+					</select>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Şirket Adı</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Şirket Kodu</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Şirket Türü</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Vergi Dairesi</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Vergi No</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Email</label>
+					<input type="email" class="form-control" placeholder="example@gmail.com">
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Telefon</label>
+					<input type="tel" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Adres</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Web Site</label>
+					<input type="url" class="form-control" placeholder="https://example.com/users/">
+				</div>
+
+				<div class="col-md-3">
+					<label class="form-label">Demo Kurulum Tarihi</label>
+					<div class="input-group">
+						<input type="date" class="form-control">
+						<div class="input-group-text" style="background-color: #d6e4f0;">
+							<input class="form-check-input mt-0" type="checkbox" value="" id="flexCheckDefault">
+							<label class="form-check-label mb-0 ms-1" for="flexCheckDefault" style="color: black;">Demo Kuruldu</label>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Parola</label>
+					<input type="password" class="form-control">
+				</div>
+
+				<div class="col-md-3">
+					<label class="form-label">Son Yedekleme Tarihi</label>
+					<input type="date" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Son Yedekleme Şifre</label>
+					<input type="password" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Yedekleme Server Konum</label>
+					<input type="text" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Son Yedekleme Dosya Adı </label>
+					<input type="text" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Risk Limit</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Sipariş Risk Limit</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label for="validationDefault03" class="form-label">Ticari Türü</label>
+					<input type="text" class="form-control" id="validationDefault03" required>
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Mutabakat Mail Server </label>
+					<input type="text" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Mutabakat Mail Adres</label>
+					<div class="input-group">
+						<input type="email" class="form-control" placeholder="example@gmail.com">
+						<div class="input-group-text" style="background-color: #d6e4f0;">
+							<input class="form-check-input mt-0" type="checkbox" value="" id="mutabakatCheck">
+							<label class="form-check-label mb-0 ms-1" for="mutabakatCheck" style="color: black;">Mutabakat SSL yapıldı </label>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Mutabakat Mail Port </label>
+					<input type="text" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Mutabakat Kullanıcı Adı </label>
+					<input type="text" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Mutabakat şifre</label>
+					<input type="password" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Son İletişim Tarihi</label>
+					<input type="date" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Son İletişim Nedeni </label>
+					<input type="text" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Notlar </label>
+					<input type="text" class="form-control">
+				</div>
+				<div class="col-md-3">
+					<label class="form-label">Kullanıcı Sayısı</label>
+					<input type="number" class="form-control">
+				</div>
+				<div class="col-6">
+					<button class="btn btn-primary" type="submit">Gönder</button>
+				</div>
+				
+			</form>
+		</div>
+	</div>
+</div>
+<div class="card">
+<div class="card-body">
+	<div class="table-responsive">
+		<table class="table table-invoice">
+			<thead>
+				<tr>
+					
+					<th class="text-center" width="10%">Kodu</th>
+					<th class="text-center" width="10%">Müşteri Adı</th>
+						<th class="text-center" width="10%">il</th>
+						<th class="text-center" width="10%">ilce</th>
+						<th class="text-center" width="10%">Şirket Adı</th>
+						<th class="text-center" width="10%">Şirket Kodu</th>
+						<th class="text-center" width="10%">Şirket türü</th>
+						<th class="text-center" width="10%">Vergi Dairesi</th>
+						<th class="text-center" width="10%">Vergi No</th>
+						<th class="text-center" width="10%">E-mail</th>
+						<th class="text-center" width="10%">Telefon</th>
+						<th class="text-center" width="10%">Adres</th>
+						<th class="text-center" width="10%">Web sitesi</th>
+						<th class="text-center" width="10%">Demo Kurulum Tarihi</th>
+						<th class="text-center" width="10%">Son yedekleme Tarihi</th>
+						<th class="text-center" width="10%">Yedekleme Server Konum</th>
+						<th class="text-center" width="10%">Son yedekleme Dosya adı </th>
+						<th class="text-center" width="10%">Risk Limit</th>
+						<th class="text-center" width="10%">Sipariş Risk Limit</th>
+						<th class="text-center" width="10%">Ticari Türü</th>
+						<th class="text-center" width="10%">Mutakabat Mail Server</th>
+						<th class="text-center" width="10%">Mutakabat Mail Adres</th>
+						<th class="text-center" width="10%">Mutakabat Mail port</th>
+						<th class="text-center" width="10%">Mutakabat Kullanıcı adı </th>
+						<th class="text-center" width="10%">Son iletişim tarihi</th>
+						<th class="text-center" width="10%">Son iletişim Nedeni</th>
+						<th class="text-center" width="10%">Notlar</th>
+						<th class="text-center" width="10%">Kullanıcı sayısı</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					
+					<td class="text-center">15</td>
+					<td class="text-center">bahar</td>
+					<td class="text-right">burdur</td>
+				</tr>
+				
+			</tbody>
+		</table>
+	</div>
+	</div>
+	
+
+	
+	
+</div>
